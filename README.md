@@ -2,7 +2,12 @@
 Deepseek_r1 model connecting with RAG 
 
 # Prerequisites 
+1. OLLAMA
+2. RAG with Qdrant or Opensearch
+3. Langchain
+4. python 3.11
 
+   
 ```
 
 welcome@jaisairams-Laptop ~ % ollama run deepseek-r1
