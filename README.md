@@ -6,6 +6,7 @@ Deepseek_r1 model connecting with RAG
 2. RAG with Qdrant or Opensearch
 3. Langchain
 4. python 3.11
+5. NVIDIA 
 
    
 ```
