@@ -3,12 +3,12 @@ Deepseek_r1 model connecting with RAG
 
 # Prerequests 
 
-``
-welcome@jaisairams-Laptop ~ % ollama run deepseek-r
-pulling manifest 
-Error: pull model manifest: file does not exist
+```
+
 welcome@jaisairams-Laptop ~ % ollama run deepseek-r1
+
 pulling manifest 
+
 pulling 96c415656d37... 100% ▕██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏ 4.7 GB                         
 pulling 369ca498f347... 100% ▕██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏  387 B                         
 pulling 6e4c38e1172f... 100% ▕██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏ 1.1 KB                         
